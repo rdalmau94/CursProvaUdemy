@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         textPrin = findViewById(R.id.textPr);
-        textPrin.setText("CANVI PROJECTE");
+        textPrin.setText("CANVI PROJECTE DESDE LENOVO");
     }
 }
